@@ -32,6 +32,7 @@ public class MyRouteBuilder extends RouteBuilder {
      */
     public static void main(String... args) throws Exception {
         System.out.println("testing build job");
+        System.out.println("testing build job....");
         Main.main(args);
     }
 
